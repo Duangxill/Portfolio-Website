@@ -1,7 +1,14 @@
-# My Portfolio Website - Overview 🚀
+#  DUBINGYANG – Visual Designer Portfolio
 
-This repository contains the open-source version of my personal portfolio website.  
-Feel free to explore the code and use it for learning and inspiration.
+I'm DUBINGYANG, a visual designer specializing in:
+- Visual Identity & Branding
+- Packaging Design
+- UI/UX Design
+- AIGC Visual Exploration
+
+This portfolio showcases selected works across these fields.
+
+
 
 ---
 
@@ -51,6 +58,8 @@ However:
 
 Any usage, extraction, or redistribution of that avatar from my live website is strictly prohibited.
 
+Note: All personal branding, avatar, and project imagery have been replaced with my own assets.
+
 ---
 
 ![Protfolio-Preview](https://github.com/user-attachments/assets/3c4557e7-6392-4928-b8a9-7b2476ef4edd)
@@ -63,3 +72,4 @@ This project is licensed under the Personal Portfolio License (PPL) v1.0.
 
 See the LICENSE file for full details
 
+## Original project licensed under PPL v1.0 by Moncy Yohannan. Modifications by DUBINGYANG.
