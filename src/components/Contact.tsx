@@ -22,46 +22,38 @@ const Contact = () => {
             </p>
           </div>
           <div className="contact-box">
-            <h4>Social</h4>
-            <a
-              href="https://github.com"
-              target="_blank"
-              data-cursor="disable"
-              className="contact-social"
-            >
-              Github <MdArrowOutward />
-            </a>
-            <a
-              href="https://www.linkedin.com"
-              target="_blank"
-              data-cursor="disable"
-              className="contact-social"
-            >
-              Linkedin <MdArrowOutward />
-            </a>
-            <a
-              href="https://x.com"
-              target="_blank"
-              data-cursor="disable"
-              className="contact-social"
-            >
-              Twitter <MdArrowOutward />
-            </a>
-            <a
-              href="https://www.instagram.com"
-              target="_blank"
-              data-cursor="disable"
-              className="contact-social"
-            >
-              Instagram <MdArrowOutward />
-            </a>
+  <h4>Social</h4>
+
+  {/* QQ */}
+  <a
+    href="tencent://message/?uin=532527489"
+    target="_blank"
+    rel="noreferrer"
+    data-cursor="disable"
+    className="contact-social"
+  >
+    QQ <MdArrowOutward />
+  </a>
+
+  {/* 微信 */}
+  <a
+    href="#"
+    onClick={(e) => {
+      e.preventDefault();
+      alert("GSarite6184");
+    }}
+    data-cursor="disable"
+    className="contact-social"
+  >
+    微信 <MdArrowOutward />
+  </a>
           </div>
           <div className="contact-box">
             <h2>
-              Designed and Developed <br /> by <span>DUBINGYANG Yohannan</span>
+              Designed and Developed <br /> by <span>DUBINGYANG </span>
             </h2>
             <h5>
-              <MdCopyright /> 2024
+              <MdCopyright /> 2026
             </h5>
           </div>
         </div>
