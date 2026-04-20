@@ -46,11 +46,11 @@ const Navbar = () => {
           Logo
         </a>
         <a
-          href="mailto:example@mail.com"
+          href="mailto:Duangxill@outlook.com"
           className="navbar-connect"
           data-cursor="disable"
         >
-          example@mail.com
+          Duangxill@outlook.com
         </a>
         <ul>
           <li>
