@@ -1,5 +1,3 @@
-import "./styles/Scene.css";
-
 const Scene = () => {
   return (
     <div className="character-container">
